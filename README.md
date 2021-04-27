@@ -1,8 +1,9 @@
  # Alex Scotland
 * [x]  Software Developer
 * [x]  Python Wiz-Kid
+* [x]  Docker and Docker-compose
 * [x]  Full Stack Development
-* [x]  Generally Cool Guy
+* [x]  CI/CD Pipelines
 * [ ]  Count to one million
 
 # Projects
