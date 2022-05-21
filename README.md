@@ -1,12 +1,13 @@
- # Alex Scotland
-* [x]  Software Developer
-* [x]  Python Wiz-Kid
-* [x]  Docker and Docker-compose
-* [x]  Full Stack Development
-* [x]  CI/CD Pipelines
-* [ ]  Count to one million
+# Alex Scotland
+## 🤖 I make stuff that will one day take my job 💸
+* [x]  🐍-language developer
+* [x]  object oriented > 🍝-code
+* [x]  🐳docker🎁compose🚢containers
+* [x]  i stack to the fullest🐱‍🏍
+* [x]  🐱‍💻gitlab-ci
+* [ ]  tie my shoes 👞
 
 # Projects
+* [SLASH - Seriously Lacking All Sense (of) Harmony](https://www.youtube.com/watch?v=iik25wqIuFo)
+* [Immune, a *Jank* simulation of the Innate Immune System](https://github.com/AlexScotland/Immune)
 * [Tempo, Discord's First Music Theory Bot](https://github.com/AlexScotland/Tempo)
-* [DocuScan, Traverse PDF, Doc and Docx files with ease!](https://github.com/AlexScotland/DocuScan-Python)
-* [Lyricist, AI Powered Rap Lyrics!](https://github.com/AlexScotland/Lyricist)
